@@ -250,6 +250,33 @@ backdrop-filter: blur(0px);
   font-family: 'Julius Sans One', sans-serif;
 }
 
+.centered3 {
+  color: white;
+border-radius: 8px;
+backdrop-filter: blur(0px);
+-webkit-backdrop-filter: blur(10px);
+  font-size: 60px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+
+.centered4 {
+  color: white;
+border-radius: 8px;
+backdrop-filter: blur(0px);
+-webkit-backdrop-filter: blur(10px);
+  font-size: 60px;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Julius Sans One', sans-serif;
+}
+
 /* End Home Page
 
 /* Service Page */
