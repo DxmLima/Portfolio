@@ -35,7 +35,7 @@ img {
   top: 0;
   left:0;
   background-color: rgb(0, 0, 0);
-  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/software-developer-g3c5a9d9de_1920.jpg);
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(img/software-developer-g3c5a9d9de_1920.jpg);
   z-index: -1;
 }
 
